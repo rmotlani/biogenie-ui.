@@ -8,7 +8,9 @@ module.exports = {
       },
       colors: {
         biogreen: "#10b981",
-        biotechblue: "#1e3a8a"
+        biotechblue: "#1e3a8a",
+        prolight: "#f4f5f7",
+        prodark: "#1c1e22"
       }
     },
   },
