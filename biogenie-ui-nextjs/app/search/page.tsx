@@ -1,3 +1,5 @@
+'use client';
+
 import SearchBar from "@/components/Shared/SearchBar";
 
 export default function SearchPage() {
